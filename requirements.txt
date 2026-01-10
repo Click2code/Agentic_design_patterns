@@ -1,0 +1,17 @@
+# Core dependencies for agentic design patterns
+
+# For real LLM integration (optional - uncomment as needed)
+# openai>=1.0.0
+# anthropic>=0.18.0
+
+# Common utilities
+typing-extensions>=4.5.0
+
+# For testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# For code quality
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
